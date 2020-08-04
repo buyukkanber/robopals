@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'American Stencil Regular';
+font-style: normal;
+font-weight: normal;
+src: local('American Stencil Regular'), url('AmericanStencil.woff') format('woff');
+}
+
+h1	{
+	font-family: 'American Stencil Regular';
+	font-weight: 7;
+
+}
