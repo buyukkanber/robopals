@@ -55,7 +55,7 @@ export const robots = [
 	},
 	{
 	    id: 10,
-	    name: 'Leon Blake',
+	    name: 'Leon Black',
 	    username: 'larry',
 	    email: 'curb@it.io'
 	}
